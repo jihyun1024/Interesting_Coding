@@ -1,0 +1,6 @@
+﻿  OIIA_OIIA_lang.cpp
+C:\Users\rkdwl\source\repos\Interesting_Code\OIIA_OIIA_lang.cpp(32,9): warning C4005: 'oi': 매크로 재정의
+      C:\Users\rkdwl\source\repos\Interesting_Code\OIIA_OIIA_lang.cpp(14,9):
+      'oi'의 이전 정의를 참조하십시오.
+  
+  Interesting_Code.vcxproj -> C:\Users\rkdwl\source\repos\Interesting_Code\x64\Debug\Interesting_Code.exe
