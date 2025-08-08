@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D814FC-602C-4E4D-8851-8681CD181C5A}|Interesting_Code.vcxproj|C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_OIIA_lang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39D814FC-602C-4E4D-8851-8681CD181C5A}|Interesting_Code.vcxproj|solutionrelative:OIIA_OIIA_lang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OIIA_OIIA_lang.cpp",
+              "DocumentMoniker": "C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_OIIA_lang.cpp",
+              "RelativeDocumentMoniker": "OIIA_OIIA_lang.cpp",
+              "ToolTip": "C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_OIIA_lang.cpp",
+              "RelativeToolTip": "OIIA_OIIA_lang.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T08:39:38.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
