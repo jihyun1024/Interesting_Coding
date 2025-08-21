@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="OIIA_OIIA_lang.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OIIA_header.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

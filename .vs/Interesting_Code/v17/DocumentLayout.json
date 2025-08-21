@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{39D814FC-602C-4E4D-8851-8681CD181C5A}|Interesting_Code.vcxproj|C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_OIIA_lang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{39D814FC-602C-4E4D-8851-8681CD181C5A}|Interesting_Code.vcxproj|solutionrelative:OIIA_OIIA_lang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D814FC-602C-4E4D-8851-8681CD181C5A}|Interesting_Code.vcxproj|C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39D814FC-602C-4E4D-8851-8681CD181C5A}|Interesting_Code.vcxproj|solutionrelative:OIIA_header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,28 @@
               "RelativeDocumentMoniker": "OIIA_OIIA_lang.cpp",
               "ToolTip": "C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_OIIA_lang.cpp",
               "RelativeToolTip": "OIIA_OIIA_lang.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-08T08:39:38.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OIIA_header.h",
+              "DocumentMoniker": "C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_header.h",
+              "RelativeDocumentMoniker": "OIIA_header.h",
+              "ToolTip": "C:\\Users\\rkdwl\\source\\repos\\Interesting_Code\\OIIA_header.h",
+              "RelativeToolTip": "OIIA_header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T08:13:38.64Z",
               "EditorCaption": ""
             }
           ]
