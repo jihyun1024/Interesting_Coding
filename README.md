@@ -64,3 +64,5 @@ O-i-i-a-i-o, o-i-i-i-a-i
   * https://genius.com/W-w-oiia-oiia-spinning-cat-lyrics
  
   * https://giphy.com/gifs/wandwmusic-wandw-spinning-cat-oiia-1OrIIOIcRTDaNidc5p
+
+* Motivated From: https://www.youtube.com/watch?v=IxX_QHay02M&list=RDIxX_QHay02M&start_radio=1
